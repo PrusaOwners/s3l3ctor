@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2018-08-16T20:38:52.5039554+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\602assem.SLDASM</FileName>
+      <SHA1>92860C0A0F500D907B9523695E1E407D3EF70658</SHA1>
+      <FileSize>2002347</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\Flexible Coupling 5mm x 6mm.SLDPRT</FileName>
+      <SHA1>9ABAB75E026F9CC7B44D80EDDD9FBAEDB6705161</SHA1>
+      <FileSize>454803</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\LiterallyFilament.SLDPRT</FileName>
+      <SHA1>D14F9CC79A71332798D16F2BFF7CC029D23ED57C</SHA1>
+      <FileSize>51871</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\MainBody.SLDPRT</FileName>
+      <SHA1>7A055C8C138E92D97B4E58C39030865FA9DE5BE7</SHA1>
+      <FileSize>1158207</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\mk8_drive_gear_rod.SLDPRT</FileName>
+      <SHA1>A58E9F24299BE9E85882AE7B24A1F53DF6228A30</SHA1>
+      <FileSize>61975</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\MK8_Gear_smooth.stp</FileName>
+      <SHA1>362E9DF4E5C4D9F9B86E7600A57479E1AA5184D4</SHA1>
+      <FileSize>172019</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\MK8_Gear_threaded.SLDPRT</FileName>
+      <SHA1>46E458589E9F8B7574BE5B1AD83C8879FF2CBA2A</SHA1>
+      <FileSize>713033</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\MK8_Gear_threaded.stp</FileName>
+      <SHA1>A1924D0234ED1E125F12681CDECBCBAA19BCE9BB</SHA1>
+      <FileSize>2025428</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\NEMA-17 40mm PR.SLDPRT</FileName>
+      <SHA1>DC40E5B89BC7B47C73497619F6341081A40E2C9C</SHA1>
+      <FileSize>1201915</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RollerDrum.SLDPRT</FileName>
+      <SHA1>656C75AC2D9972ECAB5AEF3ABA1FF69A56C0CD08</SHA1>
+      <FileSize>192070</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\5972K910_BALL BEARING.SLDPRT</FileName>
+      <SHA1>D038A8CBD447C3DAD65CC9A6787127B04C63363F</SHA1>
+      <FileSize>335162</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>fvvIv9f.png</FileName>
+      <SHA1>0BF8B545F5DE8EE5D0BE7EE02A173243E0BA9C4A</SHA1>
+      <FileSize>1484097</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>IO7gcxB.jpg</FileName>
+      <SHA1>141A491F4B3F57EFE7DD06AF592DA9D09F36D157</SHA1>
+      <FileSize>92861</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>mmu2.jpg</FileName>
+      <SHA1>ADBCD2D69F63CD5DA5DA2789F66D60CDC8AE2EF0</SHA1>
+      <FileSize>1588751</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>unknown.png</FileName>
+      <SHA1>D0D23DE2BC653FF72BD22ACABB2B992BA4D1B6F9</SHA1>
+      <FileSize>547307</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\5mm to 5mm coupler_printed.SLDPRT</FileName>
+      <SHA1>8BDC4E42C457B0D8735A131757EEAAD3C93CD450</SHA1>
+      <FileSize>76882</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\Rollerassem.SLDASM</FileName>
+      <SHA1>573EAAA280DE277F64D73AC3109019ED9F0B74E3</SHA1>
+      <FileSize>701246</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\6153K690_STAINLESS STEEL BALL BEARING.SLDPRT</FileName>
+      <SHA1>B987D4FB55120931FF2C334B348FC0EF7467732F</SHA1>
+      <FileSize>327498</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\BarrelHolder2.SLDPRT</FileName>
+      <SHA1>0B1C5C9EA80D00599D03F8967B810DB7E4ED70EC</SHA1>
+      <FileSize>105016</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\FilamentSensorDood.SLDPRT</FileName>
+      <SHA1>7D1E9A1AC404028B772042C249E81B2F91330B6F</SHA1>
+      <FileSize>93293</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\FilamentSensorIdler.SLDPRT</FileName>
+      <SHA1>5104BE475A3111E238BD71D4F79C209A1049D6C4</SHA1>
+      <FileSize>473894</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\MotorHolderTing.SLDPRT</FileName>
+      <SHA1>9008DBD03A0F30B1C31D0A904F5B1760D34B1AC3</SHA1>
+      <FileSize>148896</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Arduino Mega Rev-3.SLDASM</FileName>
+      <SHA1>0F7AD1980D346BA309252E70D96CAE55FAD3D4CE</SHA1>
+      <FileSize>263193</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Arduino-Ramps Controller.SLDASM</FileName>
+      <SHA1>E9A9EBB4F4C14AEEDE6BD2E0323F49F657CF825B</SHA1>
+      <FileSize>1564757</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\PCB-FIXED.sldprt</FileName>
+      <SHA1>58897CC5AE21E493A12EF92DA3FFB27AE509D1F6</SHA1>
+      <FileSize>47923</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Part20.sldprt</FileName>
+      <SHA1>4A2A9584CDBD39EB39E50A09497110A3465AB849</SHA1>
+      <FileSize>49111</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Part24.sldprt</FileName>
+      <SHA1>1251E0E99144C2EF1F929C35D627A9808BA9A63C</SHA1>
+      <FileSize>121409</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Part26.sldprt</FileName>
+      <SHA1>AB8CAB28411ACF4EA608FFE31EE4B348DCA3D9CF</SHA1>
+      <FileSize>52574</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Part28.sldprt</FileName>
+      <SHA1>0EF15048DC358FF5BE17F31F943011A0D6AA58BD</SHA1>
+      <FileSize>150876</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Part30.sldprt</FileName>
+      <SHA1>8B2AC38EF487A25D63FF01D6C107695ADE932F1F</SHA1>
+      <FileSize>49084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Part32.sldprt</FileName>
+      <SHA1>FD3B64AA0875909825E813DE3BD775991AD42936</SHA1>
+      <FileSize>54295</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Part4.sldprt</FileName>
+      <SHA1>F395C8F7C082125F24ECB3505125B97AFF5C1C08</SHA1>
+      <FileSize>48842</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Part40.sldprt</FileName>
+      <SHA1>08C24DAD7678980D9786F61A176BF5A063B0968C</SHA1>
+      <FileSize>54515</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Part42.sldprt</FileName>
+      <SHA1>5A2749C56438B475ABD284FAA2DC17A92771A71F</SHA1>
+      <FileSize>153447</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Part44.sldprt</FileName>
+      <SHA1>C167F10281EAC64BC78E769E64EDF2D30A82FD76</SHA1>
+      <FileSize>80718</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\Part46.sldprt</FileName>
+      <SHA1>15F0EA18FF1C7BCDA49817770B05190188DB6624</SHA1>
+      <FileSize>35839</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\RAMPS 1.4_ALL_PARTS.rar</FileName>
+      <SHA1>67B32D6CADAA06FF96E5CC559D48E84BC8E84C20</SHA1>
+      <FileSize>6226616</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\RAMPS1_4.JPG</FileName>
+      <SHA1>84AC5C9D852C9A70755A021CB28CA0D8F419FB9C</SHA1>
+      <FileSize>380595</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\RAMPS1_4.STEP</FileName>
+      <SHA1>05E66DB6C782BD15DEA3082D5DBA572AD26F573F</SHA1>
+      <FileSize>18120737</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\RAMPS1_4.sldasm</FileName>
+      <SHA1>BA090F20EB8BF48A843220B02DE75B21A4FD371F</SHA1>
+      <FileSize>1428812</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\RAMPS1_4.sldprt</FileName>
+      <SHA1>FE5C7E351D55292E341CD314245A934AC60C05C1</SHA1>
+      <FileSize>121360</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-APA3010GCCK_GREEN.sldprt</FileName>
+      <SHA1>93E4F113B57C734B4F5950DD52E61D883D1BA853</SHA1>
+      <FileSize>52393</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-APA3010GCCK_RED.sldprt</FileName>
+      <SHA1>A59D16ADE9E7BC6E62512608E3F9DEFCDAF01676</SHA1>
+      <FileSize>53197</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-CAPSMD4x3_9.sldasm</FileName>
+      <SHA1>9BA0B58DC418CA7377241B5B869E2C0A7B17BCEE</SHA1>
+      <FileSize>22620</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-CAPSMD4x3_9_CAPSMD4x3_9.sldprt</FileName>
+      <SHA1>3D2AB4A200C2BBAE6C2B419E60E0A39C2C7741D6</SHA1>
+      <FileSize>34877</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-CAPSMD4x3_9_CAPSMD4x3_9001.sldprt</FileName>
+      <SHA1>E119E28F4C3908F308DEDB7BC96F8C831F971A4D</SHA1>
+      <FileSize>33708</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-CAPSMD4x3_9_CAPSMD4x3_9002.sldprt</FileName>
+      <SHA1>2E38B7E7100F9FDC50D8DEA637E58FCF28BD1FFC</SHA1>
+      <FileSize>33306</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-CAPSMD4x3_9_CAPSMD4x3_9003.sldprt</FileName>
+      <SHA1>42FB2F0B4766E862207E7482832A45F3943BF02E</SHA1>
+      <FileSize>31462</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-CAPSMD4x3_9_CAPSMD4x3_9004.sldprt</FileName>
+      <SHA1>8B1196BD1E248D82B641C10AC93C147D4918E0B5</SHA1>
+      <FileSize>31683</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-CAPSMD6_3x3_9.sldasm</FileName>
+      <SHA1>5FC56D54A834FF699E8BDD4764B57A1627816151</SHA1>
+      <FileSize>22436</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-CAPSMD6_3x3_9_CAP.sldprt</FileName>
+      <SHA1>F7E51F58E5C80522986E57BC863736E76E048194</SHA1>
+      <FileSize>31587</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-CAPSMD6_3x3_9_CAP001.sldprt</FileName>
+      <SHA1>DB36E07D968772367294E2615299CC95E147A1C5</SHA1>
+      <FileSize>35134</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-CAPSMD6_3x3_9_CAP002.sldprt</FileName>
+      <SHA1>BBBC8FE9066CFD31837708EB324B1886101F8A3A</SHA1>
+      <FileSize>34767</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-CAPSMD6_3x3_9_CAP003.sldprt</FileName>
+      <SHA1>B7598B944C2B2B00433B324C8743A95E5570718E</SHA1>
+      <FileSize>31886</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-CAPSMD6_3x3_9_CAP004.sldprt</FileName>
+      <SHA1>894E684642BFFDAFC8577ECB2B605D463312D406</SHA1>
+      <FileSize>32040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-MF-R1100___ _________.sldprt</FileName>
+      <SHA1>807BBA45607ED6ECDBAA04FA7936D836D4B6A9B4</SHA1>
+      <FileSize>153506</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-MF-R500___ _________.sldprt</FileName>
+      <SHA1>C833DB7EFB2B6A9058D0288EDBCAC48C8EBBBA27</SHA1>
+      <FileSize>166191</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-POWER MOSFET, NON-SURFACE-MOUNT.sldprt</FileName>
+      <SHA1>448E35E88961328456B5EE446DFA528B568BD1F6</SHA1>
+      <FileSize>69830</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\User Library-SWITCH, TACTILE, RIGHT ANGLE, 12VDC, 50MA, 6_85MM ACTUATOR, WEALTH METAL TC-0244Z.sldprt</FileName>
+      <SHA1>0FB92A47D72802C6A59335EC30F98350E2888F60</SHA1>
+      <FileSize>89467</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\female_header_a-bl254-dg-g08d.sldprt</FileName>
+      <SHA1>A9FA04A5FC9B33966AD7FC69D04E0DA672DC2BBF</SHA1>
+      <FileSize>178520</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\female_header_a-bl254-eg-g08d.sldprt</FileName>
+      <SHA1>96C0808ACD660DD34261994E4D637397AAFA5B93</SHA1>
+      <FileSize>191131</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\pin_header_aw140-eg-g02d.sldprt</FileName>
+      <SHA1>000E4D99908D4E50173B67AADD4B941B309F9F40</SHA1>
+      <FileSize>58665</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\pin_header_aw140-eg-g03d.sldprt</FileName>
+      <SHA1>54697BD2B6DD68E37E1E9EA4A1BEC34B49505536</SHA1>
+      <FileSize>72139</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\pin_header_aw140-eg-g04d.sldprt</FileName>
+      <SHA1>34D1726B9FA63D11F2EA171D4AB0D7B1F0B58C30</SHA1>
+      <FileSize>83695</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\pin_header_aw140-eg-g06d.sldprt</FileName>
+      <SHA1>DE4E6B755E9AD8D1212DF7E98963F537CBEE8689</SHA1>
+      <FileSize>109512</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\pin_header_aw140-eg-g08d.sldprt</FileName>
+      <SHA1>18328DC6C538CAA1574E17DB804327D6915C59F1</SHA1>
+      <FileSize>134957</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\pin_header_aw140-eg-g18d.sldprt</FileName>
+      <SHA1>9DEF82BCE149BE78B1F3EDED0FFA037A4B6EA87A</SHA1>
+      <FileSize>303200</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\pin_header_aw254-dg-g06d.sldprt</FileName>
+      <SHA1>E1D518CDA6E19AFA15BE9FA55AA3CD6D4D99D412</SHA1>
+      <FileSize>101618</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\pin_header_aw254-dg-g08d.sldprt</FileName>
+      <SHA1>27FD1FF382392F7F822A0C32B11103FADC89CD40</SHA1>
+      <FileSize>122451</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\pin_header_aw254-dg-g10d.sldprt</FileName>
+      <SHA1>C64A9C82BC48E2E490FE3D4905967610F0B596B6</SHA1>
+      <FileSize>143023</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\pin_header_aw254-dg-g36d.sldprt</FileName>
+      <SHA1>45DF114BE82742A55B1E0C724B13DA3A321C3630</SHA1>
+      <FileSize>469391</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\terminal_blocks_a-tb500-to06.sldprt</FileName>
+      <SHA1>4F4E69259B9316C03AB9751D991DBB69CE7F6C6B</SHA1>
+      <FileSize>150040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RAMPSassem\terminal_blocks_a-tb508-oq04ch.sldprt</FileName>
+      <SHA1>3DA648D941943D49F984FF6A49F150620CFAF078</SHA1>
+      <FileSize>127022</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\Untitled.JPG</FileName>
+      <SHA1>973DFDAE213A2FDD0B85436A12AF67A2CAB7115A</SHA1>
+      <FileSize>846079</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\Micro Limit Switch.SLDPRT</FileName>
+      <SHA1>9434573A663E5825E1BB4DD9AA479A0341556443</SHA1>
+      <FileSize>137096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\Micro Switch de Alavanca.SLDPRT</FileName>
+      <SHA1>E6C16571C4F3D04D499100A6833CFABC46FB569B</SHA1>
+      <FileSize>630476</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Selectra.jpg</FileName>
+      <SHA1>91F94A768CB3D3E3C15F1D7A673A2EF6FECD0A20</SHA1>
+      <FileSize>107178</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Selectra2.JPG</FileName>
+      <SHA1>D541948C406667A07176727EA9982EBE4BFB28B9</SHA1>
+      <FileSize>28602</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Selectra3.JPG</FileName>
+      <SHA1>D76268B359473C6DC3709CFC30066823F4964638</SHA1>
+      <FileSize>17829</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ahahaa.jpg</FileName>
+      <SHA1>7BA1606FE5B8DC69AF828DE29EB11374D3E89369</SHA1>
+      <FileSize>102748</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\main_box.SLDPRT</FileName>
+      <SHA1>AE9C81517CB9540507231C8B85080F8510923533</SHA1>
+      <FileSize>240469</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>DifferentYdesigns.jpeg</FileName>
+      <SHA1>F8D76C87FF679D2D7579496170B471CD36786059</SHA1>
+      <FileSize>1618030</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\#Fitting_PC4-M6.SLDPRT</FileName>
+      <SHA1>227246E4D6E82D60EFDB59015A42CE51455782B8</SHA1>
+      <FileSize>170246</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\FilamentBox1.SLDPRT</FileName>
+      <SHA1>6B15B4C7AFFC5A97DF5C1F353E2A79D000CE12E6</SHA1>
+      <FileSize>223923</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\FilamentBox2.SLDPRT</FileName>
+      <SHA1>C076E4A0D80F290EDBB34F8BC63EFF8BB39F84C2</SHA1>
+      <FileSize>227312</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\MiniPETspring.SLDPRT</FileName>
+      <SHA1>17DFE69E075B29113F3B19374517E18630FA0247</SHA1>
+      <FileSize>104878</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\PC4-m10.SLDPRT</FileName>
+      <SHA1>B9988727008DD323E08C2CC76DFB019630A7475E</SHA1>
+      <FileSize>178350</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\Ysplitter_prototype.SLDPRT</FileName>
+      <SHA1>FB7F9131DA216642914D78216A3D7DCB40AE9782</SHA1>
+      <FileSize>109946</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\Ysplitter_prototype.STL</FileName>
+      <SHA1>FD070B97F6FDCA72365304CA4061A210E217EC03</SHA1>
+      <FileSize>47784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Capture.JPG</FileName>
+      <SHA1>77F1BD5129C3B059AF53A976E21D2698625E1908</SHA1>
+      <FileSize>121888</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>microswitchDimensions.jpg</FileName>
+      <SHA1>1B9850400DC26F6C2D963D54E25D241A4F8FC00D</SHA1>
+      <FileSize>45008</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\Ysplitter_prototypeV2.STL</FileName>
+      <SHA1>A31B19883A1A44E58E7914185A98D2DB94C924B6</SHA1>
+      <FileSize>149584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\YSplitter_M10fititings.SLDPRT</FileName>
+      <SHA1>BE9FFAFBF431358D1598D7CA2D09CA248CBD79D8</SHA1>
+      <FileSize>283480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\YSplitter_M10fititings.step</FileName>
+      <SHA1>F115DB9006214B50803A65C802A8D9A6A764C2BF</SHA1>
+      <FileSize>537620</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\YSplitter_M5fititings.step</FileName>
+      <SHA1>F78DFD62554BB343DA03713DC887FEA89D7DD5EA</SHA1>
+      <FileSize>537705</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\BearingRing.SLDPRT</FileName>
+      <SHA1>7BC7F743BF953D6596DEAF04427D71C106EE4B61</SHA1>
+      <FileSize>103680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\Carriage v2.SLDPRT</FileName>
+      <SHA1>250B1446371C9D544AC197324743876DE2DD74EB</SHA1>
+      <FileSize>59713</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\LiterallyEnd.SLDPRT</FileName>
+      <SHA1>2BA763D4CE559D9F7275DD09C54A0ACCF1F1A4D6</SHA1>
+      <FileSize>61247</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\SliderAssem.SLDASM</FileName>
+      <SHA1>85FE9B867A82B7D0EF8AADFAF3D18E04B675BF96</SHA1>
+      <FileSize>724569</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\SliderCarriage.SLDPRT</FileName>
+      <SHA1>738342F85459F6B6F5210BDB82A421774173F1B8</SHA1>
+      <FileSize>111614</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\literally 8mm x 100mm.SLDPRT</FileName>
+      <SHA1>DB309A1D9EF0C2FF8F3EF715C633FA65B0262131</SHA1>
+      <FileSize>52190</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Coupler_maybe_smllenough.stl</FileName>
+      <SHA1>B3AA74E8421D750928503C42D3603C2BD32B4233</SHA1>
+      <FileSize>4067484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\5mmx20mmshaft.SLDPRT</FileName>
+      <SHA1>07F200B1BC6968319A4DE0078120254CE3DFCE7D</SHA1>
+      <FileSize>65609</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\5mmx20mmshaft.STL</FileName>
+      <SHA1>E57DEE0BF136F320F93EE8902F4806165F24D896</SHA1>
+      <FileSize>8884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\RollerDrum.STL</FileName>
+      <SHA1>4186E7E8AC99E60DD9F5F09373B46E57CE801585</SHA1>
+      <FileSize>202484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>BarrelHolder2.STL</FileName>
+      <SHA1>DB53942A9A427154DBB48C20CD9DBF0D3C6F6515</SHA1>
+      <FileSize>43384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>bowden_fitting_nut.stl</FileName>
+      <SHA1>FAFA9021BAB746AF251230E1A658BA25FDA69367</SHA1>
+      <FileSize>988184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MiniPETspring.STL</FileName>
+      <SHA1>6491CB436F7B581A2AAAB5F0CBCEB848FBA86309</SHA1>
+      <FileSize>26484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MotorHolderTing.STL</FileName>
+      <SHA1>6429DCFFA1F887B3A71416B40BE57780BBEB3947</SHA1>
+      <FileSize>79184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Body43.stl</FileName>
+      <SHA1>173531E91098646C8AB5D07D1D16330906F505F4</SHA1>
+      <FileSize>20184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Body45.stl</FileName>
+      <SHA1>9944B8E9CC96BDE334EF94260DF1F98C35CE6291</SHA1>
+      <FileSize>21384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CouplerExtension.stl</FileName>
+      <SHA1>F0BF7F9A2C398ADD35C0A5C4C6F81D44C0B5AF9B</SHA1>
+      <FileSize>170084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Couplertopmesh.stl</FileName>
+      <SHA1>36D08C00B291CA410EC690248810D757931FA927</SHA1>
+      <FileSize>1118984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Coupler_maybe_smllenough_Looonnggggg.stl</FileName>
+      <SHA1>6BF6E283E34BCBAEFFCFBAE8AC9887F83EA4036F</SHA1>
+      <FileSize>1288984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RollerDrum.STL</FileName>
+      <SHA1>8B809DEAB05FB11A78C4CF5BC44085D006DF90D5</SHA1>
+      <FileSize>207784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>TheMountofKwaad2.STL</FileName>
+      <SHA1>60658492307FAA42F8518178D40590192F52640A</SHA1>
+      <FileSize>27184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>TheMountofKwaad2_v2.STL</FileName>
+      <SHA1>3231C6F7BC0DEF764BDF0D5A614CA32AECEF19F0</SHA1>
+      <FileSize>35284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>TopClamp.stl</FileName>
+      <SHA1>1E631E6DABC42F81776A17552EB66E6DA56BEC3C</SHA1>
+      <FileSize>163684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>TopClamp_2.stl</FileName>
+      <SHA1>6D73BA30C673C1506FEF655A42A8A1FED39BC79F</SHA1>
+      <FileSize>170584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CoverHack.stl</FileName>
+      <SHA1>47D2D96BCCB9A9B0C5B58E761CA221C43735DC47</SHA1>
+      <FileSize>679684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CoverHack2.stl</FileName>
+      <SHA1>8A65E6DAE34B9ED1BACE99C7E4BB5438E9D5E85C</SHA1>
+      <FileSize>139684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CoverHackv2.stl</FileName>
+      <SHA1>47D2D96BCCB9A9B0C5B58E761CA221C43735DC47</SHA1>
+      <FileSize>679684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CoverHackv3.stl</FileName>
+      <SHA1>B8E0AD84E5BC04A633C8F544F50ED33EABE0AFB6</SHA1>
+      <FileSize>1942906</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>6mmrod.stl</FileName>
+      <SHA1>0772C6E0276649A08BB194784DBA3FC5ADC0882B</SHA1>
+      <FileSize>78484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>aliteralcircle.stl</FileName>
+      <SHA1>8C574D188EF03C7C027F919D50FD8AEFF3A59683</SHA1>
+      <FileSize>92884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Bettersplitterv3.3.1.stl</FileName>
+      <SHA1>A24E3C2FBA0A565B8FCBCF6274C241700FAC31C0</SHA1>
+      <FileSize>389684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>CoverHackv4_1piece.stl</FileName>
+      <SHA1>E1E1C7D5E63C7B97B05F2B5D0DDD4B34001DDB58</SHA1>
+      <FileSize>2413184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>M10x1.stl</FileName>
+      <SHA1>F266C693B5D3D24118A99B02CC1E38EBDB3A4195</SHA1>
+      <FileSize>522484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>ySPLITTERV3.3.stl</FileName>
+      <SHA1>F6B3E34CB7C81F66D95173E30970D2680CD916DE</SHA1>
+      <FileSize>390684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>4.25mmshaft.stl</FileName>
+      <SHA1>7BD203CE8F831BBD0C8C4C3479342DEC49C68E59</SHA1>
+      <FileSize>79684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Smaller3waysplitterv1.stl</FileName>
+      <SHA1>655010EC3213056DDDBCDCF81F30F129BC3F9DA6</SHA1>
+      <FileSize>254084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Smaller3waysplitterv2.stl</FileName>
+      <SHA1>FE25C4AA6B0DEE39E65020A229A979A181462F53</SHA1>
+      <FileSize>256684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Smaller3waysplitterv3.stl</FileName>
+      <SHA1>EB2FCFC637CD75262EECAA39EF39022BD0F498D3</SHA1>
+      <FileSize>284984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>rectangularbase.stl</FileName>
+      <SHA1>3CFEB6823704364FA27B0ECCBEE9B64726E66895</SHA1>
+      <FileSize>99084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SplitterV5.stl</FileName>
+      <SHA1>B9A41CE5A6D67AA5D268F9525F6A964220292FED</SHA1>
+      <FileSize>163084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Unification of 2 parts (Couplertopmesh (repaired), rectangularbase (repaired)).stl</FileName>
+      <SHA1>A37D3F7DC1E5B38DD48362B0C4DE7CCA2B05096C</SHA1>
+      <FileSize>1274784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Body3.stl</FileName>
+      <SHA1>32F10CA5C7EA419FABE5B4F6AAD7F80B6C6F862E</SHA1>
+      <FileSize>2284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RectangularCouplerv2.stl</FileName>
+      <SHA1>5ECA46EDC43F91CA78C99AC0B5C21F8FD886F464</SHA1>
+      <FileSize>1315484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RectangularCouplerv3.stl</FileName>
+      <SHA1>146A2AFF2B642F13656325A2E8592734A2972113</SHA1>
+      <FileSize>1438484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>RectangularCouplerv4.stl</FileName>
+      <SHA1>47E2E144572A3EACD646D3E47B8E5A8F867621F2</SHA1>
+      <FileSize>1518784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\Body41.SLDPRT</FileName>
+      <SHA1>FB43D6981C7D572CC9A3489CF8F68AF0799B0359</SHA1>
+      <FileSize>121041</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Body41.stl</FileName>
+      <SHA1>651A49F8D4D10165F973354402DBB84E5C4D3D8B</SHA1>
+      <FileSize>204884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Body411.SLDPRT</FileName>
+      <SHA1>7B909FB9F32241BE8E8B9AE6816775E501B89A6C</SHA1>
+      <FileSize>1440717</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Coupler_maybe_smllenough_Looonnggggg.SLDPRT</FileName>
+      <SHA1>E5DC8CCC33085615DE5FBD447BA86CEF3AAF5119</SHA1>
+      <FileSize>1002153</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Coupler_maybe_smllenough_Looonnggggg1.SLDPRT</FileName>
+      <SHA1>004A5E1A6D72FEF735B3F32A3D7C211331E6AE7B</SHA1>
+      <FileSize>9744470</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SplitterMeme-1piece v8 v12.SLDPRT</FileName>
+      <SHA1>7002A119BD470C89CDCAD6ED8BA56B73216A050A</SHA1>
+      <FileSize>269475</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SplitterMeme-1piece v8 v12.err</FileName>
+      <SHA1>AEDB7C7720C308B496318E383B1FF38A41E2D30D</SHA1>
+      <FileSize>792</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>SplitterMeme-1piece v8 v12.step</FileName>
+      <SHA1>B5320764175F80326D466798FB02C8CE370B23E5</SHA1>
+      <FileSize>436305</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>6 to 1 v3.f3d</FileName>
+      <SHA1>346B963B5CA95EF3D644E70BCAB9F08B224F8EDA</SHA1>
+      <FileSize>784788</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>6to1_v3.stl</FileName>
+      <SHA1>E195406F428A55503E071D205B961E072BEE8B59</SHA1>
+      <FileSize>571184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MainBody.STL</FileName>
+      <SHA1>36762E6A80B24EE35C07B8DDE9D492BA479DC2A6</SHA1>
+      <FileSize>484784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>splitter_ptfe.stl</FileName>
+      <SHA1>6A4DA6F26D9ACCB604054FA079C70624527258D5</SHA1>
+      <FileSize>349284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MK3_spring.stl</FileName>
+      <SHA1>2B9EF5817A46C70095F19C649D2F4DBE6AFED00D</SHA1>
+      <FileSize>55684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\MK3_spring.SLDPRT</FileName>
+      <SHA1>230108750A5EE6489A9E9BEFED7E27C3F1FAA20B</SHA1>
+      <FileSize>559284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\Retainer.SLDPRT</FileName>
+      <SHA1>3EB6102F2BA4A04F465EAE7C85B98E88BF6695BA</SHA1>
+      <FileSize>68865</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\S3l3ct0r_swingy.SLDASM</FileName>
+      <SHA1>3D72ADA0CFB1314719A2902B6AF68BACF8B1D984</SHA1>
+      <FileSize>2263386</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\barrelMotorholder_v2 - Copy.SLDPRT</FileName>
+      <SHA1>E9FC29796ABA1C4A738797419D948E48A92EB69A</SHA1>
+      <FileSize>186200</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\barrelidlerholder_v2.SLDPRT</FileName>
+      <SHA1>4DEDF91937C1229D152E746D4B78F23CA35E817E</SHA1>
+      <FileSize>104621</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ct0r_swingy.STEP</FileName>
+      <SHA1>5EC10D4BBEC4E37916BF099811F271366838DE00</SHA1>
+      <FileSize>8260280</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ct0r v2\TumblerSLDPRT\FemaleEnd.SLDPRT</FileName>
+      <SHA1>9E33C5ADD067808D9779B4855392C3D6C437A437</SHA1>
+      <FileSize>147446</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ct0r v2\TumblerSLDPRT\FullBarrelassem.SLDASM</FileName>
+      <SHA1>E72ED53F7A09919A55DFAC2AEF6ABEA05A67440F</SHA1>
+      <FileSize>273145</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ct0r v2\TumblerSLDPRT\maleEnd.SLDPRT</FileName>
+      <SHA1>F078ED69FF09F61283F53BDA2228D3C7F6347BA8</SHA1>
+      <FileSize>94317</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ct0r v2\TumblerSLDPRT\TumblerMainV44.SLDPRT</FileName>
+      <SHA1>B6CE4E6BF773BC87A7A9A2A856BF72261F340B5C</SHA1>
+      <FileSize>190132</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>fullbarrel.igs</FileName>
+      <SHA1>63EEA1516076910043D92B59DF54B33BB057B134</SHA1>
+      <FileSize>796384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>fullbarrel.rpt</FileName>
+      <SHA1>62694B14DCB9AFCAD86AD8555E6BDB3F44847A5C</SHA1>
+      <FileSize>3409</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>tumbler v44.SLDPRT</FileName>
+      <SHA1>71B8231DA0F2D4D6FB770C0F2703F4930CAAB61B</SHA1>
+      <FileSize>353956</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\AssemblyHolder.SLDPRT</FileName>
+      <SHA1>AC283ADCD066010D656047E1955FDF585D2E4655</SHA1>
+      <FileSize>66348</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\S3L3ct0r_onFrame.SLDASM</FileName>
+      <SHA1>8D2780E4F771F105BC6E3C3EF6F10B8BBA9AF5A7</SHA1>
+      <FileSize>2331097</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\barrelMotorholder_v2 - Copy.STL</FileName>
+      <SHA1>4A7F8D526C9DD0EAB2489ED15F476C56666908A0</SHA1>
+      <FileSize>122784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_AssemblyHolder_x2.STL</FileName>
+      <SHA1>041EB7B05692AE7A20893C088AE2FF514D440FFF</SHA1>
+      <FileSize>19884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_barrelIdlerHolder_x1.STL</FileName>
+      <SHA1>6B3AC9C5784F6D814D627E78D65EDF813761AAA4</SHA1>
+      <FileSize>57484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_BarrelMotorHolder_x1.STL</FileName>
+      <SHA1>4A7F8D526C9DD0EAB2489ED15F476C56666908A0</SHA1>
+      <FileSize>122784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_MainBody_x1.STL</FileName>
+      <SHA1>B0B2E7B0038AFC051320CFB39958D65EDCB07E2B</SHA1>
+      <FileSize>819484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_Retainer_x2.STL</FileName>
+      <SHA1>9D75DECC41F8DB6F4376721524814128A752DF4A</SHA1>
+      <FileSize>27984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_SplitterShroom_x1.stl</FileName>
+      <SHA1>14574986E9090A529E9856197B147E1D649AF1C1</SHA1>
+      <FileSize>4308334</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_tumblerV64_maleEnd_x1.stl</FileName>
+      <SHA1>BEDEC1EFAE3429322907100B58409BCD43CE3B33</SHA1>
+      <FileSize>148084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_tumblerV64_motorEnd_x1.stl</FileName>
+      <SHA1>ED5EA4575AB76C0497EBBC6F42A62CF45E5A9034</SHA1>
+      <FileSize>183684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1__Body_spring_x2.STL</FileName>
+      <SHA1>88BD86CE9FE4D349A790CD6FCEE13EE6CFB7B9A0</SHA1>
+      <FileSize>55684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_tumblerV64_pin_x6.stl</FileName>
+      <SHA1>18E6E1F18F77CD7C9E3498D1EBFFAC12BD97076B</SHA1>
+      <FileSize>44984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_tumblerV66_NOsupports.stl</FileName>
+      <SHA1>D828851CFC1208FD1ECE3FDEDD78BE291BED1183</SHA1>
+      <FileSize>248884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_tumblerV66_withsupports__x6.stl</FileName>
+      <SHA1>436458C11904CB6CBB2C45BE469BECFAFCFB07EF</SHA1>
+      <FileSize>345984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1stl.zip</FileName>
+      <SHA1>3C420B969CB751DD8AE72C640207B36D99EC50B0</SHA1>
+      <FileSize>2348529</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_barrelMotorholder_arksine_no_supports v1.stl</FileName>
+      <SHA1>44417CE44779F5C233A463866D81B2AF1688298E</SHA1>
+      <FileSize>222084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_tumblerV64_motorEnd_ARKSINE_x1.stl</FileName>
+      <SHA1>8CDC9351F3C429304577307F1DD742EB26634817</SHA1>
+      <FileSize>463784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_tumblerV69_NOsupports.stl</FileName>
+      <SHA1>24BFCADE206F858C0740274D494B35983E45CDA2</SHA1>
+      <FileSize>516784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_tumblerV69_pin_x6.stl</FileName>
+      <SHA1>18E274EDB7FAA02E52E286EB4FF575EE0D1C7EFD</SHA1>
+      <FileSize>90584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_tumblerV69_withsupports__x6.stl</FileName>
+      <SHA1>0546DB540AD59B42F03D6849F765B66B13000E22</SHA1>
+      <FileSize>1069484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\A1R1_BarrelMotorHolder_x1_ZIPTIEvariant.STL</FileName>
+      <SHA1>72E4BF05045E6BB0ADCE147A40DD254AD4B14746</SHA1>
+      <FileSize>121884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\PC4-m10_SKELESTRUDER_B1.stl</FileName>
+      <SHA1>8AACF664DABE9689EFC762868F39B94374870042</SHA1>
+      <FileSize>1082484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>A602Post.py</FileName>
+      <SHA1>706DF115AFFC76C97B1E291994726996C7B67553</SHA1>
+      <FileSize>206</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\MainBodyV2.SLDPRT</FileName>
+      <SHA1>ECE6D220D1BD263B5ADE771B727EA1ACE3AD8C33</SHA1>
+      <FileSize>528867</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>0.602_Selector\S3l3ct0r_swingy_mainbodyv2.SLDASM</FileName>
+      <SHA1>ECB36E62FA4E46906778DEC4212892B00BA80092</SHA1>
+      <FileSize>2234049</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R1\MainBodyV2_HighREs.STL</FileName>
+      <SHA1>BD39E0894C40417509CB55A973794DCCA0860AF6</SHA1>
+      <FileSize>4022384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R2\barrelidlerholder_v2.STL</FileName>
+      <SHA1>496E123ECB947EB16FBA23E3A726FAE3A8A80FFD</SHA1>
+      <FileSize>456284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R2\barrelMotorholder_v2 .STL</FileName>
+      <SHA1>029F58C577554BAC425C97136E873BF2BDD688DE</SHA1>
+      <FileSize>913684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R2\MainBodyV2.2.STL</FileName>
+      <SHA1>70BAF0B3A295A4AA18079F5DEBE4B72B75EEA698</SHA1>
+      <FileSize>381884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R2\MainBodyV2.STL</FileName>
+      <SHA1>120372FE0B88EF5A1B654485F343D51DBDA657B8</SHA1>
+      <FileSize>4550184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>S3l3ctor Alpha1 STLs\R2\RetainerV2.STL</FileName>
+      <SHA1>4AECD750FB42A957F3B7DE5AFD1B76A2501A68AF</SHA1>
+      <FileSize>217584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>README.md</FileName>
+      <SHA1>AF62F3A08228833839744EA277C8A8F624A128B7</SHA1>
+      <FileSize>593</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
