@@ -22,8 +22,8 @@ Printed Parts
 | A1R1_tumblerV64_motorEnd_x1.stl       | 1 |
 | A1R1_tumblerV69_pin_x6.stl            | 6 |
 | A1R1_tumblerV69_withsupports__x6.stl | 6 |
-| For Skelestruder:                        | - |
-| PC4-m10_SKELESTRUDER_B1.stl            | - |
+| For Skelestruder:                        |  |
+| PC4-m10_SKELESTRUDER_B1.stl            |  |
 
 Hardware needed:
 
