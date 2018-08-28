@@ -29,7 +29,7 @@ Printed Parts:
 Hardware needed:
 
 | Item | Quantity | Example link |                           
---- | --- | ---
+|---- | ---- | ----|
 | Bolts | (how many? What size?) | Soon^tm |
 | Square nuts | 2 | Spares bag|                                                                                               
 | 608 bearings | 8 | [ebay](<https://www.ebay.com/itm/8pcs-625-2Z-625-ZZ-C3-Double-Metal-Shielded-Ball-Bearing-5x16x-5mm-US-Stock-M496/401542781331?hash=item5d7dd09993%3Ag%3Akq0AAOSwZrhacTfp&_sacat=0&_nkw=625+bearing&_from=R40&rt=nc&_trksid=p2047675.m570.l1313.TR0.TRC0.A0.H0.X625+bearin.TRS1>)  |
@@ -38,9 +38,10 @@ Hardware needed:
 |PTFE tubing ID 2mm OD 4mm | couple meters | [ebay](<https://www.ebay.com/itm/PTFE-Bowden-Teflon-Tube-1-75-Filament-3D-printer-RepRap-Rostock-Kossel/162932641530?hash=item25ef8acefa%3Am%3Amv4vboRH9_rfasJIsMfowVw%3Asc%3AUSPSFirstClass%2194087%21US%21-1&var=462001182875&_sacat=0&_nkw=teflong+tube+3d+printer&_from=R40&rt=nc&_trksid=m570.l1313&LH_TitleDesc=0%7C0>) |
 
 Electronics:
+
 | Item | Quantity | Notes and URL|
----|---|---
-|RAMPS + 5x A4988 drivers + Mega kit | 1 | [ebay link](https://www.ebay.com/itm/3D-Printer-Kit-RAMPS-1-4-Mega2560-A4988-12864-LCD-Controller-for-Arduino-Reprap-/252181241032) - TODO find a better kit link|
+|----|----|----|
+|RAMPS + 5x A4988 drivers + Mega kit | 1 | [ebay link](https://www.ebay.com/itm/3D-Printer-Kit-RAMPS-1-4-Mega2560-A4988-12864-LCD-Controller-for-Arduino-Reprap-/252181241032) - TODO find a better kit link |
 
 
 For a RAMPS setup: Set of RAMPS plus at least 2x A4988s (usually 5x) plus Mega Either a 12v brick (2 or more amps) or 24v to 12v buck regulator off of printer PSU 2x NEMA 17s 7-8x microswitches with bearings
