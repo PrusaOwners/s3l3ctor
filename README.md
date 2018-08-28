@@ -8,6 +8,8 @@ At this point the project is undergoing closed alpha testing and will have an op
 
 Link the the [Github STLs](https://github.com/PrusaOwners/s3l3ctor) (Please please please don't click unless you know what you are doing)
 
+I am not affiliated with the below links and likely have not tested them. Use at your own risk until there's a real BOM out.
+
 Printed Parts:
 
 | STL Name              | Quantity |
@@ -23,8 +25,8 @@ Printed Parts:
 | A1R1_tumblerV64_motorEnd_x1.stl       | 1 |
 | A1R1_tumblerV69_pin_x6.stl            | 6 |
 | A1R1_tumblerV69_withsupports__x6.stl | 6 |
-| For Skelestruder:                        | |
-| PC4-m10_SKELESTRUDER_B1.stl            | |
+| For Skelestruder People:                        | |
+| PC4-m10_SKELESTRUDER_B1.stl            | 1|
 
 Hardware needed:
 
@@ -42,6 +44,10 @@ Electronics:
 | Item | Quantity | Notes and URL|
 |----|----|----|
 |RAMPS + 5x A4988 drivers + Mega kit | 1 | [ebay link](https://www.ebay.com/itm/3D-Printer-Kit-RAMPS-1-4-Mega2560-A4988-12864-LCD-Controller-for-Arduino-Reprap-/252181241032) - TODO find a better kit link |
+|12v 2 amp power brick| 1| If you want to externally power S3l3ctor - [Example brick](https://www.amazon.com/Amamax%C2%AE-Wall-Adapter-Power-Supply/dp/B00KZ2ZQE8) - TODO find a better example
+|12v 2 amp buck converter| 1| OPTIONAL - For those who want to run off a 24v PSU. Make sure you have enough PSU headroom! [Example](https://www.amazon.com/Converter-Step-Down-Module-Voltage-DCCON-CPT245/dp/B00BNPYBM4) - TODO verify links
+| If you have a 12v PSU and want to power off the PSU| |You're fine, nothing needed here :D |
+| Microswitch with bearings | 9| [Something like this](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjel62xqpDdAhVqwVQKHV7hCeEQjhx6BAgBEAM&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F10Pcs-Micro-Roller-Lever-Arm-Open-Close-Limit-Switch-KW12-3-PCB-Microswitch-MYAL-%2F221982152794&psig=AOvVaw2WRzgkcSNxDZ9WlTds0HjS&ust=1535565761090100)
 
 
 For a RAMPS setup: Set of RAMPS plus at least 2x A4988s (usually 5x) plus Mega Either a 12v brick (2 or more amps) or 24v to 12v buck regulator off of printer PSU 2x NEMA 17s 7-8x microswitches with bearings
