@@ -8,8 +8,9 @@ At this point the project is undergoing closed alpha testing and will have an op
 
 Link the the [Github STLs](https://github.com/PrusaOwners/s3l3ctor) (Please please please don't click unless you know what you are doing)
 
-Printed Parts
-| STL Name                                 |Quantity |
+Printed Parts:
+
+| STL Name              | Quantity |
 | ---- | ---- |
 | MainBodyV2                               | 1 |
 | barrelidlerholder_v2.STL                | 1 |
@@ -22,8 +23,8 @@ Printed Parts
 | A1R1_tumblerV64_motorEnd_x1.stl       | 1 |
 | A1R1_tumblerV69_pin_x6.stl            | 6 |
 | A1R1_tumblerV69_withsupports__x6.stl | 6 |
-| For Skelestruder:                        |  |
-| PC4-m10_SKELESTRUDER_B1.stl            |  |
+| For Skelestruder:                        | 0 |
+| PC4-m10_SKELESTRUDER_B1.stl            | 0 |
 
 Hardware needed:
 
